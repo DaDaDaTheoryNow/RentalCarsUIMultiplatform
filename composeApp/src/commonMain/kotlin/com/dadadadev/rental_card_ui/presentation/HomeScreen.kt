@@ -16,7 +16,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
 import com.dadadadev.rental_card_ui.presentation.components.BottomBar
 import com.dadadadev.rental_card_ui.presentation.components.CarList
-import com.dadadadev.rental_card_ui.theme.Blur
+import com.dadadadev.rental_card_ui.presentation.theme.Blur
 import dev.chrisbanes.haze.HazeState
 import dev.chrisbanes.haze.HazeStyle
 import dev.chrisbanes.haze.HazeTint

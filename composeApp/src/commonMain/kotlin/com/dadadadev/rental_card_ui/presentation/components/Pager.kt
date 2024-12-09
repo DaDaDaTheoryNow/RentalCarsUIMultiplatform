@@ -23,7 +23,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.dadadadev.rental_card_ui.theme.Primary
+import com.dadadadev.rental_card_ui.presentation.theme.Primary
 
 @Composable
 fun Pager(modifier: Modifier = Modifier) {

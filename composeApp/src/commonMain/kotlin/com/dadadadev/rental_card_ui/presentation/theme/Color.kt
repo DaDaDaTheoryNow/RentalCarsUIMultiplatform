@@ -1,4 +1,4 @@
-package com.dadadadev.rental_card_ui.theme
+package com.dadadadev.rental_card_ui.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 

@@ -1,8 +1,8 @@
 package com.dadadadev.rental_card_ui.presentation.components
 
 import androidx.compose.ui.graphics.Color
-import com.dadadadev.rental_card_ui.theme.Primary
-import com.dadadadev.rental_card_ui.theme.Secondary
+import com.dadadadev.rental_card_ui.presentation.theme.Primary
+import com.dadadadev.rental_card_ui.presentation.theme.Secondary
 import org.jetbrains.compose.resources.DrawableResource
 import rentalcarsuimultiplatform.composeapp.generated.resources.Res
 import rentalcarsuimultiplatform.composeapp.generated.resources.*

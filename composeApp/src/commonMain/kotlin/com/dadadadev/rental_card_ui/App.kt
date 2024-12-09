@@ -17,8 +17,8 @@ import androidx.compose.ui.unit.dp
 import com.dadadadev.rental_card_ui.presentation.HomeScreen
 import com.dadadadev.rental_card_ui.presentation.components.Pager
 import com.dadadadev.rental_card_ui.presentation.components.TopBar
-import com.dadadadev.rental_card_ui.theme.Blur
-import com.dadadadev.rental_card_ui.theme.RentalCarsUIMultiplatformTheme
+import com.dadadadev.rental_card_ui.presentation.theme.Blur
+import com.dadadadev.rental_card_ui.presentation.theme.RentalCarsUIMultiplatformTheme
 import dev.chrisbanes.haze.HazeState
 import dev.chrisbanes.haze.HazeStyle
 import dev.chrisbanes.haze.HazeTint
